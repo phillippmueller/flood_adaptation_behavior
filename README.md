@@ -1,8 +1,7 @@
 # flood-experience
 
 
-## hypotheses under investigation: 
-
+## working questions:
 ### What is the effect of experience on insurance? 
 - compare Miami v Jacksonville
 - could this be an interesting climate justice case?
