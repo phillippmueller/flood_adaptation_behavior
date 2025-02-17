@@ -13,3 +13,7 @@
 - Are we expecting no correlation for all adaptation types in Florida then?
 -   home building codes are stricter in florida -> only look into non-structural adaptation
 -   Florida has higher insurance rates 
+
+### Why is the effect of experience on insurance so low? 
+- people in florida are insured more but experience in the data is less (seperating equilibrium?)
+- in Washington and New York effect of experience on insurance high, in Florida not  
