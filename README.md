@@ -14,7 +14,7 @@ Effect of disaster experience on adaptatin is lower in Florida compared to New Y
 #### conclusion:
 Community disaster fatigue is posing a type of soft limit to adaptaion
 #### to do: 
-- make this an econmics narrative (hypothesize ratinal agents and find opposite?)
+- make this an econmics narrative (work with bounded rationality hypothesis?)
 - do the preliminar regrssions
 - double check the terminology
 - double check the code (do some sensitivity with outliers and nans?)
