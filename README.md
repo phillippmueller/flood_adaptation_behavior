@@ -11,7 +11,7 @@ Effect of disaster experience on adaptatin is lower in Florida compared to New Y
 - what about individual v interactive adaptation measures?
 - do a sensitivity check with Wachington state
 - potential hypothesis: we are expecting specific adaptation measures to be affacted by disaster fatigue more than others (reasoning from lit review)
-#### cnoclusion:
+#### conclusion:
 Community disaster fatigue is posing a type of soft limit to adaptaion
 #### to do: 
 - make this an econmics narrative (hypothesize ratinal agents and find opposite?)
