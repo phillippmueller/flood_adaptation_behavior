@@ -1,7 +1,10 @@
 # flood-experience
 
-# game plam: 
-#### lol
+## game plan: 
+#### assumption: At equal frequency, Florida has heavier storms than New York
+#### hypothesis: Florida is suffering from disaster fatigue
+#### expected findings: Effect of disaster experience on adaptatin is lower in Florida compared to New York
+#### cnoclusion: Community disaster fatigue is posing a type of soft limit to adaptaion
 
 ## working questions:
 ### What is the effect of experience on insurance? 
