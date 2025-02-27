@@ -22,3 +22,5 @@
 links: 
 https://www.fema.gov/flood-insurance/risk-rating/profiles (R2.0 policy premium changes county and zip code level)
 https://floodsciencecenter.org/projects/data-visualization-dashboards-for-fema-risk-rating-2-0-projected-premium-change-analysis/ (projected 2.0 premium changes spatial dashboard)
+
+https://www.ncei.noaa.gov/access/billions/state-summary/NY(hazard history per state)
