@@ -4,6 +4,10 @@
 #### assumption: At equal frequency, Florida has heavier storms than New York
 #### hypothesis: Florida is suffering from disaster fatigue
 #### expected findings: Effect of disaster experience on adaptatin is lower in Florida compared to New York
+- only look int non-stuctural adaptation measures since florida has stricter building codes
+- what about individual v interactive adaptation measures?
+- do a sensitivity check with Wachington state
+- potential hypothesis: we are expecting specific adaptation measures to be affacted by disaster fatigue more than others (reasoning from lit review)
 #### cnoclusion: Community disaster fatigue is posing a type of soft limit to adaptaion
 
 ## working questions:
@@ -25,7 +29,8 @@
 
 
 links: 
-https://www.fema.gov/flood-insurance/risk-rating/profiles (R2.0 policy premium changes county and zip code level)
-https://floodsciencecenter.org/projects/data-visualization-dashboards-for-fema-risk-rating-2-0-projected-premium-change-analysis/ (projected 2.0 premium changes spatial dashboard)
+- https://www.fema.gov/flood-insurance/risk-rating/profiles (R2.0 policy premium changes county and zip code level)
 
-https://www.ncei.noaa.gov/access/billions/state-summary/NY(hazard history per state)
+- https://floodsciencecenter.org/projects/data-visualization-dashboards-for-fema-risk-rating-2-0-projected-premium-change-analysis/ (projected 2.0 premium changes spatial dashboard)
+
+- https://www.ncei.noaa.gov/access/billions/state-summary/NY(hazard history per state)
