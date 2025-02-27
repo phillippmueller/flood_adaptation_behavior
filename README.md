@@ -18,6 +18,8 @@ Community disaster fatigue is posing a type of soft limit to adaptaion
 - do the preliminar regrssions
 - double check the terminology
 - double check the code (do some sensitivity with outliers and nans?)
+- read srijiths paper on limits to adaptation
+- read book chapter on community disaster fatigue
 
 ## working questions:
 ### What is the effect of experience on insurance? 
