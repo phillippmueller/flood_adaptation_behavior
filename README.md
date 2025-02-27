@@ -16,3 +16,9 @@
 - Are we expecting no correlation for all adaptation types in Florida then?
 -   home building codes are stricter in florida -> only look into non-structural adaptation
 -   Florida has higher insurance rates 
+
+
+
+links: 
+https://www.fema.gov/flood-insurance/risk-rating/profiles (R2.0 policy premium changes county and zip code level)
+https://floodsciencecenter.org/projects/data-visualization-dashboards-for-fema-risk-rating-2-0-projected-premium-change-analysis/ (projected 2.0 premium changes spatial dashboard)
