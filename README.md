@@ -1,14 +1,23 @@
 # flood-experience
 
 ## game plan: 
-#### assumption: At equal frequency, Florida has heavier storms than New York
-#### hypothesis: Florida is suffering from disaster fatigue
-#### expected findings: Effect of disaster experience on adaptatin is lower in Florida compared to New York
+#### assumption: 
+At equal frequency, Florida has heavier storms than New York
+#### hypothesis: 
+Florida is suffering from disaster fatigue
+#### expected findings: 
+Effect of disaster experience on adaptatin is lower in Florida compared to New York
 - only look int non-stuctural adaptation measures since florida has stricter building codes
 - what about individual v interactive adaptation measures?
 - do a sensitivity check with Wachington state
 - potential hypothesis: we are expecting specific adaptation measures to be affacted by disaster fatigue more than others (reasoning from lit review)
-#### cnoclusion: Community disaster fatigue is posing a type of soft limit to adaptaion
+#### cnoclusion:
+Community disaster fatigue is posing a type of soft limit to adaptaion
+#### to do: 
+- make this an econmics narrative (hypothesize ratinal agents and find opposite?)
+- do the preliminar regrssions
+- double check the terminology
+- double check the code (do some sensitivity with outliers and nans?)
 
 ## working questions:
 ### What is the effect of experience on insurance? 
