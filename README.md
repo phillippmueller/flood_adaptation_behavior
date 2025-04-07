@@ -31,3 +31,4 @@ links:
 
 - https://fema.maps.arcgis.com/apps/instant/filtergallery/index.html?appid=de5a81292cde4f71805dc4304ca5288f&categories=%2Fcategories%2Ffloods (flood zone data???)
 
+- https://www.andrewvillazon.com/logistic-regression-python-statsmodels/
