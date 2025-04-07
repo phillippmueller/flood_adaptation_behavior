@@ -1,7 +1,19 @@
 # flood-experience
 
 ## RQ: What is the impact of flood experience on flood preparedness? 
-## What we want to find out ideally: Is this effect different in hurricane regions? 
+## What we want to find out ideally: Is this effect different in hurricane regions? -
+
+### Hypotheses: 
+- Flood experience has a positive effect on preparedness
+- Hurricanes have a less positive effect on preparednesss than flood experience
+Socioeconomic variables:
+- age and income have an ambiguous effect on preparedness
+- education and homeownership have a positive impact on preparedness
+
+- insurance has a positive effect on preparedness????
+- risk perception has a positive impact on preparedness. Especially on alerts. Less so on structural measures
+- efficacy has a positive effect on preparedness
+- awareness has a positive impact on prepardnesss 
 
 
 
