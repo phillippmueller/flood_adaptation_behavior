@@ -6,6 +6,7 @@
 ### Hypotheses: 
 - Flood experience has a positive effect on preparedness
 - Hurricanes have a less positive effect on preparednesss than flood experience
+
 Socioeconomic variables:
 - age and income have an ambiguous effect on preparedness
 - education and homeownership have a positive impact on preparedness
