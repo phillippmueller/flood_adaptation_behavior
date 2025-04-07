@@ -4,6 +4,7 @@
 ## What we want to find out ideally: Is this effect different in hurricane regions? -
 
 ### Hypotheses: 
+Main effects of interest: 
 - Flood experience has a positive effect on preparedness
 - Hurricanes have a less positive effect on preparednesss than flood experience
 
@@ -11,6 +12,7 @@ Socioeconomic variables:
 - age and income have an ambiguous effect on preparedness
 - education and homeownership have a positive impact on preparedness
 
+Other hypthesized effects:
 - insurance has a positive effect on preparedness????
 - risk perception has a positive impact on preparedness. Especially on alerts. Less so on structural measures
 - efficacy has a positive effect on preparedness
