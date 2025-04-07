@@ -19,7 +19,8 @@ Other hypthesized effects:
 - awareness has a positive impact on prepardnesss 
 
 
-
+Data: 
+- EDA_v2: efficacy, perception, awareness, floodzone dropped
 
 links: 
 - https://www.fema.gov/flood-insurance/risk-rating/profiles (R2.0 policy premium changes county and zip code level)
